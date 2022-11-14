@@ -1,0 +1,15 @@
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\bin\Debug\net6.0\Task_Arrays.exe
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\bin\Debug\net6.0\Task_Arrays.deps.json
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\bin\Debug\net6.0\Task_Arrays.runtimeconfig.json
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\bin\Debug\net6.0\Task_Arrays.dll
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\bin\Debug\net6.0\Task_Arrays.pdb
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\Task_Arrays.csproj.AssemblyReference.cache
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\Task_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\Task_Arrays.AssemblyInfoInputs.cache
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\Task_Arrays.AssemblyInfo.cs
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\Task_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\Task_Arrays.dll
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\refint\Task_Arrays.dll
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\Task_Arrays.pdb
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\Task_Arrays.genruntimeconfig.cache
+C:\Users\Roman\Documents\Verification_Task\Task_Arrays\obj\Debug\net6.0\ref\Task_Arrays.dll
